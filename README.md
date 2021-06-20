@@ -31,7 +31,7 @@ Bootstrap Site - In this project I learned how to better use the bootstrap with 
 
 The application:
 
- <img alt="Made by brunochaves77" src="#">
+ <img alt="Made by brunochaves77" src="https://github.com/brunochaves77/bootstrap-site/blob/main/img/snapshoot.JPG">
 
 ---
 
